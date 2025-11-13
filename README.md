@@ -467,7 +467,7 @@ interface StorageData {
 
 ## 📝 License
 
-This project is part of a team academic project.
+This module is part of a team project.
 
 ---
 
@@ -481,4 +481,3 @@ This project is part of a team academic project.
 ---
 
 **Built with ❤️ using Angular**
-```
