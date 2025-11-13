@@ -1,4 +1,4 @@
-# Challenges Module 🏃‍♂️💪
+# Challenges Module
 
 A comprehensive Angular-based web application for tracking personal health challenges and building healthy habits. Users can join challenges, track daily progress, earn badges, and visualize their health journey through interactive charts.
 
@@ -23,7 +23,7 @@ A comprehensive Angular-based web application for tracking personal health chall
 
 ---
 
-## ✨ Features
+## Features
 
 ### Features Implemented
 - ✅ 12 health challenges (nutrition, fitness, mental health)
@@ -84,7 +84,7 @@ A comprehensive Angular-based web application for tracking personal health chall
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Framework
 - **Angular 18.x** (Standalone Components)
@@ -112,7 +112,7 @@ A comprehensive Angular-based web application for tracking personal health chall
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 health-challenges-app/
 ├── src/
@@ -164,7 +164,7 @@ health-challenges-app/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - **Node.js** (v18.x or higher)
@@ -199,7 +199,7 @@ ng version
 
 ---
 
-## 💻 Development Server
+## Development Server
 ```bash
 # Start development server
 ng serve
@@ -222,7 +222,7 @@ ng serve --configuration production
 
 ---
 
-## 🏗️ Build
+## Build
 ```bash
 # Build for production
 ng build
@@ -245,7 +245,7 @@ ng build --source-map
 
 ---
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Getting Started
 
@@ -290,7 +290,7 @@ ng build --source-map
 
 ---
 
-## 🏛️ Architecture
+## Architecture
 
 ### Design Pattern: Service-Oriented Architecture
 ```
@@ -331,7 +331,7 @@ ng build --source-map
 
 ---
 
-## 🧩 Components
+## Components
 
 ### HeaderComponent
 - **Purpose**: Navigation header with responsive menu
@@ -422,7 +422,7 @@ ng build --source-map
 
 ---
 
-## 📊 Data Models
+## Data Models
 
 ### Challenge
 ```typescript
@@ -465,13 +465,13 @@ interface StorageData {
 
 ---
 
-## 📝 License
+## License
 
 This module is part of a team project.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Angular Team for the amazing framework
 - Chart.js for beautiful data visualizations
