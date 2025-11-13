@@ -6,7 +6,7 @@ A comprehensive Angular-based web application for tracking personal health chall
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
